@@ -1,0 +1,8 @@
+Download VS code - optioneel
+Maak een profielpagina van jezelf, include:
+- titel van je pagina (je naam)
+- paragraaf waarin je jezelf beschrijft
+- lijstje met hobbies
+- tabel met tools die gebruikt en pluspunt minpunt (headers: tool, plus, min)
+- foto van jezelf of lievelingseten (of huisdier)
+- contact formulier met input voor naam, email, textarea en knop voor verzenden (zoek laatste twee op w3schools)
